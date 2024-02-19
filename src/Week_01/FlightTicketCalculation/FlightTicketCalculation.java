@@ -48,7 +48,7 @@ public class FlightTicketCalculation {
         System.out.println("Yaşınızı giriniz : ");
         int age = scanner.nextInt();
 
-        System.out.println("Yolculuk tipini giriniz () : ");
+        System.out.println("Yolculuk tipini giriniz (Gidiş --> 1 || Gidiş-Dönüş --> 2) : ");
         int type = scanner.nextInt();
 
         if (km<0 && age<0 && (type!=1 || type !=2)){
