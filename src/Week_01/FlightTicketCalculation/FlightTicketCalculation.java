@@ -51,7 +51,7 @@ public class FlightTicketCalculation {
         System.out.println("Yolculuk tipini giriniz (Gidiş --> 1 || Gidiş-Dönüş --> 2) : ");
         int type = scanner.nextInt();
 
-        if (km<0 && age<0 && (type!=1 || type !=2)){
+        if (km<0 && age<0 && (type==1 || type ==2)){
             System.out.println("Hatalı Veri Girdiniz!");
         }
         else {
