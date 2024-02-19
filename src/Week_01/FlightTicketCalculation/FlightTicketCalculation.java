@@ -17,7 +17,7 @@ public class FlightTicketCalculation {
         return  ageRate;
     }
 
-    //Biley Fiyatı Hesaplama Metodu
+    //Bilet Fiyatı Hesaplama Metodu
     static void calcuteTicketPrice(int km,int age,int type){
         int totalPrice;
         int normalPrice = (int) (km * 0.10);
