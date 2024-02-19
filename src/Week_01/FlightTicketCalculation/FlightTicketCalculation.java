@@ -3,6 +3,8 @@ package Week_01.FlightTicketCalculation;
 import java.util.Scanner;
 
 public class FlightTicketCalculation {
+    //Uçak Bileti Fiyatı Hesaplama Programına Hoşgeldiniz!
+    //Kullanıcıdan aldığımız yaş ile yaş indirimi oranını method ile hesaplattırdım.
     public static double ageDiscountRateCalculate(int age){
         double ageRate =0;
         if (age<12){
@@ -14,13 +16,15 @@ public class FlightTicketCalculation {
         }
         return  ageRate;
     }
+
+    //Biley Fiyatı Hesaplama Metodu
     static void calcuteTicketPrice(int km,int age,int type){
         int totalPrice;
         int normalPrice = (int) (km * 0.10);
-        double ageDiscountRate =  ageDiscountRateCalculate(age);
-        int ageDiscount = (int) (normalPrice * ageDiscountRate);
-        int discountedPrice = normalPrice - ageDiscount;
-        int type2Discount = (int) (discountedPrice * 0.20);
+        double ageDiscountRate =  ageDiscountRateCalculate(age);  //yaşIndirimOranı = yaşIndirimOranıHesapla(yaş)
+        int ageDiscount = (int) (normalPrice * ageDiscountRate);  //yaşIndirimi     = normalFiyat * yaşIndirimOranı
+        int discountedPrice = normalPrice - ageDiscount;          //indirimliFiyat  = normalFiyat - yaşIndirimi
+        int type2Discount = (int) (discountedPrice * 0.20);       //Eğer ki gidiş-dönüş ise
 
         if (type==1){
             totalPrice = discountedPrice;
@@ -35,7 +39,7 @@ public class FlightTicketCalculation {
 
     }
     public static void main(String[] args) {
-
+        System.out.println("Uçak Bileti Fiyatı Hesaplama Programına Hoşgeldiniz!");
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Mesafeyi km türünden giriniz : ");
