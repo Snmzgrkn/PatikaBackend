@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class MinVeMaxDegeriBulma {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        //Girilen Sayılardan Min ve Max 'ı Bulma Programı
         System.out.println("-------------------------------");
         System.out.println("Kaç tane sayı gireceksiniz : ");
         int x = scanner.nextInt();
