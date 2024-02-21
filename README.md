@@ -72,5 +72,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Snmzgrkn/Pat
 ## Acknowledgements
 
 * [Snmzgrkn](https://github.com/Snmzgrkn/)
-* []()
-* []()
+
