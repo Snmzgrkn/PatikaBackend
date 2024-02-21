@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Snmzgrkn/Patika">
-    <img src="images/patika.png" alt="Logo" width="80" height="80">
+    <img src="images/patika2.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Patika+ Full Stack Development Bootcamp</h3>
