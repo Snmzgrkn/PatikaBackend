@@ -20,10 +20,46 @@
 
 ## Table Of Contents
 
+<details>
+<summary>Week 1 Practices</summary>
+<br>
+
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
-| 1       | 1  | [Aritmetik İşlemler Ve Öncelik](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/AritmetikIslemVeOncelik/AritmetikIslemVeOncelik.java)|
+| 1       | 1  | [Grade Point Average Calculator]()|
 | 1       | 2  | [VAT Calculator]()|
+| 1       | 3  | [Triangle Area]()|
+| 1       | 4  | [Taxi Meter]()|
+| 1       | 5  | [Circle Area]()|
+| 1       | 6  | [Body Mass Index]()|
+| 1       | 7  | [Green Grocer Calculator]()|
+| 1       | 8  | [Calculator]()|
+| 1       | 9  | [Login]()|
+| 1       | 10 | [Passing Grade]()|
+| 1       | 11 | [Activity Recommendation]()|
+| 1       | 12 | [Horoscope]()|
+| 1       | 13 | [Flight Ticket]()|
+| 1       | 14 | [Chineese Zodiac]()|
+| 1       | 15 | [Bissextile]()|
+| 1       | 16 | [Even Numbers]()|
+| 1       | 17 | [Odd Numbers]()|
+| 1       | 18 | [Power Scope]()|
+| 1       | 19 | [Combination]()|
+| 1       | 20 | [Exponents]()|
+| 1       | 21 | [Digit Sum]()|
+| 1       | 22 | [Harmonic Series]()|
+| 1       | 23 | [Diamond]()|
+| 1       | 24 | [ATM](h)|
+| 1       | 25 | [GDC and LCM Calculator]()|
+| 1       | 26 | [Find Biggest Number]()|
+| 1       | 27 | [Perfect Number]()|
+| 1       | 28 | [Inverted Triangle]()|
+| 1       | 29 | [Prime Number]()|
+| 1       | 30 | [Fibonacci Series]()|
+| 1       | 31 | [Precedence]()|
+| 1       | 32 | [Casting]()|
+
+</details>
 
 * [About the Project](#about-the-project)
 * [Getting Started](#getting-started)
