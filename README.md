@@ -27,19 +27,19 @@
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
 | 1       | 1  | [Aritmetik İşlem Ve Öncelik](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/AritmetikIslemVeOncelik/AritmetikIslemVeOncelik.java)|
-| 1       | 6  | [Artık Yıl Hesaplama](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/ArtikYilHesaplama/ArtikYilHesaplama.java)|
-| 1       | 8  | [100 e Kadar Asal Sayı](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/AsalSayi100/AsalSayi100.java)|
-| 1       | 9  | [Calculator]()|
-| 1       | 10 | [Çin Zodyağı]()|
-| 1       | 11 | [Fibonacci]()|
-| 1       | 12 | [Flight Ticket Calculation]()|
-| 1       | 13 | [Login]()|
-| 1       | 14 | [Manav Kasa Programı]()|
-| 1       | 15 | [Min ve Max Degeri Bulma]()|
-| 1       | 16 | [Mükemmel Sayi Bulma]()|
-| 1       | 17 | [Ters Ucgen]()|
-| 1       | 18 | [Tip Donusum]()|
-| 1       | 19 | [Vücut Kitle Endeksi Hesaplama]()|
+| 1       | 2  | [Artık Yıl Hesaplama](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/ArtikYilHesaplama/ArtikYilHesaplama.java)|
+| 1       | 3  | [100 e Kadar Asal Sayı](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/AsalSayi100/AsalSayi100.java)|
+| 1       | 4  | [Calculator]()|
+| 1       | 5 | [Çin Zodyağı]()|
+| 1       | 6 | [Fibonacci]()|
+| 1       | 7 | [Flight Ticket Calculation]()|
+| 1       | 8 | [Login]()|
+| 1       | 9 | [Manav Kasa Programı]()|
+| 1       | 10 | [Min ve Max Degeri Bulma]()|
+| 1       | 11 | [Mükemmel Sayi Bulma]()|
+| 1       | 12 | [Ters Ucgen]()|
+| 1       | 13 | [Tip Donusum]()|
+| 1       | 14 | [Vücut Kitle Endeksi Hesaplama]()|
 
 </details>
 
