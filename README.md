@@ -33,20 +33,20 @@
 
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
-| 1       | 1  | [Aritmetik İşlem Ve Öncelik](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/AritmetikIslemVeOncelik/AritmetikIslemVeOncelik.java)|
-| 1       | 2  | [Artık Yıl Hesaplama](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/ArtikYilHesaplama/ArtikYilHesaplama.java)|
-| 1       | 3  | [100 e Kadar Asal Sayı](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/AsalSayi100/AsalSayi100.java)|
-| 1       | 4  | [Calculator]()|
-| 1       | 5 | [Çin Zodyağı]()|
-| 1       | 6 | [Fibonacci]()|
-| 1       | 7 | [Flight Ticket Calculation]()|
-| 1       | 8 | [Login]()|
-| 1       | 9 | [Manav Kasa Programı]()|
-| 1       | 10 | [Min ve Max Degeri Bulma]()|
-| 1       | 11 | [Mükemmel Sayi Bulma]()|
-| 1       | 12 | [Ters Ucgen]()|
-| 1       | 13 | [Tip Donusum]()|
-| 1       | 14 | [Vücut Kitle Endeksi Hesaplama]()|
+| 1       | 1  | [Arithmetic Operation and Priority](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/AritmetikIslemVeOncelik/AritmetikIslemVeOncelik.java)|
+| 1       | 2  | [Leap Calculation](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/ArtikYilHesaplama/ArtikYilHesaplama.java)|
+| 1       | 3  | [Prime Numbers 100'](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/AsalSayi100/AsalSayi100.java)|
+| 1       | 4  | [Calculator](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/Calculator/Calculator.java)|
+| 1       | 5 | [Chinese zodiac](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/CinZodyagi/CinZodyagi.java)|
+| 1       | 6 | [Fibonacci](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/Fibonacci/Fibonacci.java)|
+| 1       | 7 | [Flight Ticket Calculation](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_01/FlightTicketCalculation)|
+| 1       | 8 | [Login](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_01/Login)|
+| 1       | 9 | [Grocery Store Program](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_01/ManavKasaProgrami)|
+| 1       | 10 | [Find Min and Max](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_01/MinVeMaxDegeriBulma)|
+| 1       | 11 | [Perfect Number](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/MukemmelSayiBulma/MukemmelSayiBulma.java)|
+| 1       | 12 | [Reverse Triangle](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_01/TersUcgen)|
+| 1       | 13 | [Type Conversion](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_01/TipDonusum)|
+| 1       | 14 | [Body Mass Index Calculation](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_01/V%C3%BCcutKitleEndeksiHesaplama)|
 
 </details>
 
