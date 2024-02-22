@@ -27,7 +27,7 @@
 
 ## Table Of Contents
 
-<details>
+<details open>
 <summary>Week 1 Practices</summary>
 <br>
 
