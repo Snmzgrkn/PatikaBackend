@@ -20,6 +20,11 @@
 
 ## Table Of Contents
 
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 1       | 1  | [Aritmetik İşlemler Ve Öncelik](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/AritmetikIslemVeOncelik/AritmetikIslemVeOncelik.java)|
+| 1       | 2  | [VAT Calculator]()|
+
 * [About the Project](#about-the-project)
 * [Getting Started](#getting-started)
 * [Usage](#usage)
