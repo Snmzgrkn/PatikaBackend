@@ -17,6 +17,13 @@
 </p>
 
 ![Contributors](https://img.shields.io/github/contributors/Snmzgrkn/Patika?color=dark-green) ![Stargazers](https://img.shields.io/github/stars/Snmzgrkn/Patika?style=social) ![Issues](https://img.shields.io/github/issues/Snmzgrkn/Patika) 
+* [About the Project](#about-the-project)
+* [Getting Started](#getting-started)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [License](#license)
+* [Authors](#authors)
+* [Acknowledgements](#acknowledgements)
 
 ## Table Of Contents
 
@@ -43,13 +50,7 @@
 
 </details>
 
-* [About the Project](#about-the-project)
-* [Getting Started](#getting-started)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [License](#license)
-* [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
+
 
 ## About The Project
 
