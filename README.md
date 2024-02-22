@@ -26,38 +26,20 @@
 
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
-| 1       | 1  | [Grade Point Average Calculator]()|
-| 1       | 2  | [VAT Calculator]()|
-| 1       | 3  | [Triangle Area]()|
-| 1       | 4  | [Taxi Meter]()|
-| 1       | 5  | [Circle Area]()|
-| 1       | 6  | [Body Mass Index]()|
-| 1       | 7  | [Green Grocer Calculator]()|
-| 1       | 8  | [Calculator]()|
-| 1       | 9  | [Login]()|
-| 1       | 10 | [Passing Grade]()|
-| 1       | 11 | [Activity Recommendation]()|
-| 1       | 12 | [Horoscope]()|
-| 1       | 13 | [Flight Ticket]()|
-| 1       | 14 | [Chineese Zodiac]()|
-| 1       | 15 | [Bissextile]()|
-| 1       | 16 | [Even Numbers]()|
-| 1       | 17 | [Odd Numbers]()|
-| 1       | 18 | [Power Scope]()|
-| 1       | 19 | [Combination]()|
-| 1       | 20 | [Exponents]()|
-| 1       | 21 | [Digit Sum]()|
-| 1       | 22 | [Harmonic Series]()|
-| 1       | 23 | [Diamond]()|
-| 1       | 24 | [ATM](h)|
-| 1       | 25 | [GDC and LCM Calculator]()|
-| 1       | 26 | [Find Biggest Number]()|
-| 1       | 27 | [Perfect Number]()|
-| 1       | 28 | [Inverted Triangle]()|
-| 1       | 29 | [Prime Number]()|
-| 1       | 30 | [Fibonacci Series]()|
-| 1       | 31 | [Precedence]()|
-| 1       | 32 | [Casting]()|
+| 1       | 1  | [Aritmetik İşlem Ve Öncelik](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/AritmetikIslemVeOncelik/AritmetikIslemVeOncelik.java)|
+| 1       | 6  | [Artık Yıl Hesaplama](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/ArtikYilHesaplama/ArtikYilHesaplama.java)|
+| 1       | 8  | [100 e Kadar Asal Sayı](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/AsalSayi100/AsalSayi100.java)|
+| 1       | 9  | [Calculator]()|
+| 1       | 10 | [Çin Zodyağı]()|
+| 1       | 11 | [Fibonacci]()|
+| 1       | 12 | [Flight Ticket Calculation]()|
+| 1       | 13 | [Login]()|
+| 1       | 14 | [Manav Kasa Programı]()|
+| 1       | 15 | [Min ve Max Degeri Bulma]()|
+| 1       | 16 | [Mükemmel Sayi Bulma]()|
+| 1       | 17 | [Ters Ucgen]()|
+| 1       | 18 | [Tip Donusum]()|
+| 1       | 19 | [Vücut Kitle Endeksi Hesaplama]()|
 
 </details>
 
