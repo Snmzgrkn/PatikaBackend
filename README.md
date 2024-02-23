@@ -4,7 +4,7 @@
     <img src="images/patika.png" alt="Logo"  height="250">
   </a>
 
-  <h3 align="center">Patika+ Full Stack Development Bootcamp</h3>
+  <h3 align="center">Patika+ Back-End Development Bootcamp</h3>
 
   <p align="center">
     Elevate Your Coding Journey: Patika+ Full Stack Bootcamp
