@@ -4,7 +4,7 @@
     <img src="images/patika.png" alt="Logo"  height="250">
   </a>
 
-  <h3 align="center">Patika+ Full Stack Development Bootcamp</h3>
+  <h3 align="center">Patika+ Back-End Development Bootcamp</h3>
 
   <p align="center">
     Elevate Your Coding Journey: Patika+ Full Stack Bootcamp
@@ -16,17 +16,33 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/Snmzgrkn/Patika?color=dark-green) ![Stargazers](https://img.shields.io/github/stars/Snmzgrkn/Patika?style=social) ![Issues](https://img.shields.io/github/issues/Snmzgrkn/Patika) 
 
 ## Table Of Contents
 
-* [About the Project](#about-the-project)
-* [Getting Started](#getting-started)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [License](#license)
-* [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
+<details open>
+<summary>Week 1 Practices</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 1       | 1  | [Arithmetic Operation and Priority](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/AritmetikIslemVeOncelik/AritmetikIslemVeOncelik.java)|
+| 1       | 2  | [Leap Calculation](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/ArtikYilHesaplama/ArtikYilHesaplama.java)|
+| 1       | 3  | [Prime Numbers 100'](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/AsalSayi100/AsalSayi100.java)|
+| 1       | 4  | [Calculator](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/Calculator/Calculator.java)|
+| 1       | 5 | [Chinese zodiac](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/CinZodyagi/CinZodyagi.java)|
+| 1       | 6 | [Fibonacci](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/Fibonacci/Fibonacci.java)|
+| 1       | 7 | [Flight Ticket Calculation](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_01/FlightTicketCalculation)|
+| 1       | 8 | [Login](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_01/Login)|
+| 1       | 9 | [Grocery Store Program](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_01/ManavKasaProgrami)|
+| 1       | 10 | [Find Min and Max](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_01/MinVeMaxDegeriBulma)|
+| 1       | 11 | [Perfect Number](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_01/MukemmelSayiBulma/MukemmelSayiBulma.java)|
+| 1       | 12 | [Reverse Triangle](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_01/TersUcgen)|
+| 1       | 13 | [Type Conversion](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_01/TipDonusum)|
+| 1       | 14 | [Body Mass Index Calculation](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_01/V%C3%BCcutKitleEndeksiHesaplama)|
+
+</details>
+
+
 
 ## About The Project
 
@@ -42,7 +58,7 @@ To set up and run this project on your local machine, follow these general steps
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Snmzgrkn/Patika.git
 
 
 ## Contributing
