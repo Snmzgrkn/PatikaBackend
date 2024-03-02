@@ -109,8 +109,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Snmzgrkn/Pat
 
 ## Authors
 
-* **Gürkan Sönmez** - *Compute Engineer* - [Gürkan Sönmez](https://github.com/Snmzgrkn/) - *Built ReadME Template*
-
+* **Gürkan Sönmez** - *Compute Engineer* - [Gürkan Sönmez](https://github.com/Snmzgrkn/) 
 ## Acknowledgements
 
 * [Snmzgrkn](https://github.com/Snmzgrkn/)
