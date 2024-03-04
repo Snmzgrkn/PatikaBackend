@@ -19,7 +19,7 @@
 
 ## Table Of Contents
 
-<details open>
+<details>
 <summary>Week 1 Practices</summary>
 <br>
 
@@ -39,6 +39,32 @@
 | 1       | 12 | [Reverse Triangle](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_01/TersUcgen)|
 | 1       | 13 | [Type Conversion](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_01/TipDonusum)|
 | 1       | 14 | [Body Mass Index Calculation](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_01/V%C3%BCcutKitleEndeksiHesaplama)|
+
+</details>
+
+<details open>
+<summary>Week 2 Practices</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 2       | 1  | [Advanced Calculator](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_02/AdvancedCalculator/AdvancedCalculator.java)|
+| 2       | 2  | [Array Find Min and Max](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_02/ArrayFindMinMax/Main.java)|
+| 2       | 3  | [Box Game](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_02/BoxGame)|
+| 2       | 4  | [Creating Method by Pattern](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_02/CreatingMethodByPattern/CreatingMethodByPattern.java)|
+| 2       | 5 | [Exponential Number Calculation](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_02/ExponentialNumberCalculation/ExponentialNumberCalculation.java)|
+| 2       | 6 | [Fibonacci with Recursive](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_02/FibonacciWithRecursive/FibonacciWithRecursive.java)|
+| 2       | 7 | [Harmonic Array](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_02/HarmonicArray/Main.java)|
+| 2       | 8 | [Letter Array](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_02/LetterArray/LetterArray.java)|
+| 2       | 9 | [Palindrome Number](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_02/PalindromeNumber/PalindromeNumber.java)|
+| 2       | 10 | [Palindromic](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_02/Palindromic/Main.java)|
+| 2       | 11 | [Prime Number](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_02/PrimeNumber/PrimeNumber.java)|
+| 2       | 12 | [Repetitive Even Numbers in Array](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_02/RepetitiveEvenNumbersArray/Main.java)|
+| 2       | 13 | [Salary Calculation](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_02/SalaryCalculation)|
+| 2       | 14 | [Sort Array Elements](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_02/SortArrayElements/Main.java)|
+| 2       | 15 | [Student Information System](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_02/StudentInformationSystem)|
+| 2       | 16 | [Transpose Array](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_02/TransposeArray/Main.java)|
+
 
 </details>
 
@@ -83,8 +109,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Snmzgrkn/Pat
 
 ## Authors
 
-* **Gürkan Sönmez** - *Compute Engineer* - [Gürkan Sönmez](https://github.com/Snmzgrkn/) - *Built ReadME Template*
-
+* **Gürkan Sönmez** - *Compute Engineer* - [Gürkan Sönmez](https://github.com/Snmzgrkn/) 
 ## Acknowledgements
 
 * [Snmzgrkn](https://github.com/Snmzgrkn/)
