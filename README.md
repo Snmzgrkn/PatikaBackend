@@ -74,7 +74,7 @@
 
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
-| 2       | 1  | [Mine Sweeper Game](https://github.com/Snmzgrkn/Patika-Projects/tree/main/MineSweeper)|
+| 3       | 1  | [Mine Sweeper Game](https://github.com/Snmzgrkn/Patika-Projects/tree/main/MineSweeper)|
 </details>
 
 <details open>
@@ -83,10 +83,10 @@
 
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
-| 2       | 1  | [Advanture Game](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_04/AdventureGame)|
-| 2       | 2  | [Interface Bank System](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_04/InterfaceBankSystem)|
-| 2       | 3  | [List Work](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_04/ListWork)|
-| 2       | 4  | [University Management System](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_04/UniversityManagementSystem)|
+| 4       | 1  | [Advanture Game](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_04/AdventureGame)|
+| 4       | 2  | [Interface Bank System](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_04/InterfaceBankSystem)|
+| 4       | 3  | [List Work](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_04/ListWork)|
+| 4       | 4  | [University Management System](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_04/UniversityManagementSystem)|
 
 </details>
 
