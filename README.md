@@ -42,7 +42,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary>Week 2 Practices</summary>
 <br>
 
@@ -65,6 +65,28 @@
 | 2       | 15 | [Student Information System](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_02/StudentInformationSystem)|
 | 2       | 16 | [Transpose Array](https://github.com/Snmzgrkn/Patika/blob/master/src/Week_02/TransposeArray/Main.java)|
 
+
+</details>
+
+<details>
+<summary>Week 3 Practices</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 3       | 1  | [Mine Sweeper Game](https://github.com/Snmzgrkn/Patika-Projects/tree/main/MineSweeper)|
+</details>
+
+<details open>
+<summary>Week 4 Practices</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 4       | 1  | [Advanture Game](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_04/AdventureGame)|
+| 4       | 2  | [Interface Bank System](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_04/InterfaceBankSystem)|
+| 4       | 3  | [List Work](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_04/ListWork)|
+| 4       | 4  | [University Management System](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_04/UniversityManagementSystem)|
 
 </details>
 
