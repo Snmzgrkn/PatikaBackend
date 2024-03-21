@@ -1,0 +1,15 @@
+SELECT title,description
+FROM film
+
+SELECT *
+FROM film
+WHERE length>60 AND length<75
+
+SELECT first_name, lastname
+FROM customer
+WHERE first_name = 'Mary'
+
+
+SELECT *
+FROM film
+WHERE length <=50 AND (rental_rate != 2.99 AND rental_rate != 4.99);
