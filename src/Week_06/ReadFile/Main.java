@@ -3,6 +3,7 @@ package Week_06.ReadFile;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
+import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) {
@@ -18,7 +19,7 @@ public class Main {
                 total+= Integer.parseInt(line);
             }
             System.out.println(total);
-        } catch (Exception e) {
+        } catch (IOException e) {
             e.getStackTrace();
         }
 
