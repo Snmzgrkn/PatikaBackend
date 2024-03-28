@@ -97,11 +97,26 @@
 |# of Week| #  | Practice Name|
 |:---:    |---:|:----         |
 | 5       | 1  | [Fixture Generator](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_05/FixtureGenerator)|
-| 5       | 2  | [MostUsedWord](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_05/MostUsedWord)|
+| 5       | 2  | [Most Used Word](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_05/MostUsedWord)|
 | 5       | 3  | [Patika Store](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_05/PatikaStore)|
 | 5       | 4  | [SQL Works](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_05/SQLWorks)|
 | 5       | 5  | [Sort Books](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_05/SortBooks)|
 | 5       | 6  | [Try Catch](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_05/TryCatch)|
+
+
+</details>
+
+<details open>
+<summary>Week 6 Practices</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 6       | 1  | [JDBC Database](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_06/JDBCDatabase)|
+| 6       | 2  | [Notepad](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_06/Notepad)|
+| 6       | 3  | [Read File](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_06/ReadFile)|
+| 6       | 4  | [SQL Works](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_06/SQLWorks)|
+
 
 
 </details>
