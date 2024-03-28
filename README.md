@@ -77,7 +77,7 @@
 | 3       | 1  | [Mine Sweeper Game](https://github.com/Snmzgrkn/Patika-Projects/tree/main/MineSweeper)|
 </details>
 
-<details open>
+<details>
 <summary>Week 4 Practices</summary>
 <br>
 
@@ -87,6 +87,22 @@
 | 4       | 2  | [Interface Bank System](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_04/InterfaceBankSystem)|
 | 4       | 3  | [List Work](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_04/ListWork)|
 | 4       | 4  | [University Management System](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_04/UniversityManagementSystem)|
+
+</details>
+
+<details>
+<summary>Week 5 Practices</summary>
+<br>
+
+|# of Week| #  | Practice Name|
+|:---:    |---:|:----         |
+| 5       | 1  | [Fixture Generator](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_05/FixtureGenerator)|
+| 5       | 2  | [MostUsedWord](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_05/MostUsedWord)|
+| 5       | 3  | [Patika Store](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_05/PatikaStore)|
+| 5       | 4  | [SQL Works](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_05/SQLWorks)|
+| 5       | 5  | [Sort Books](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_05/SortBooks)|
+| 5       | 6  | [Try Catch](https://github.com/Snmzgrkn/Patika/tree/master/src/Week_05/TryCatch)|
+
 
 </details>
 
