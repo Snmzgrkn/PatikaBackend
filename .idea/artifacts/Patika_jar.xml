@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Patika:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Patika_jar</output-path>
+    <root id="archive" name="Patika.jar">
+      <element id="module-output" name="Patika" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/Week_06/JDBCDatabase/mysql-connector-j-8.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/Week_07/postgresql-42.7.3 (1).jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
